@@ -1,2 +1,2 @@
 # sergeyzet.github.io
-Пара работ без минификации и сжатия как есть.
+ReadiumPro.
